@@ -13,7 +13,7 @@ HOST, PORT = '', 8000
 ```
 Run it:
 ```bash
-python Web_server.py
+python main.py
 ```
 Access the server:
 
